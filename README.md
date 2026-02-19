@@ -1,2 +1,3 @@
-# advanced-data-pipeline-rchx
-A repository to test GitHub automation for issue management
+# Advanced Data Pipeline Rchx
+
+A repository to test GitHub automation for issue management.
